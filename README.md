@@ -12,7 +12,7 @@ This project was created by ReactJs and uses a microservice of authentification 
 ## Set up the back end Server
 
 - go to "src/services/HttpService" and change baseURL to the URL of the backEnd
-- for the back end repository
+- for the back end repository : https://github.com/aymankd/Test-Back.git
 
 # Run the Project
 
